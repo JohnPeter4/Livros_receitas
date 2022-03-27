@@ -1,4 +1,18 @@
-#Strogonoff de Frango 
+#Strogonoff de Frango :chicken
+** Negrito **
+_ italico_
+
+### Ingredientes###
+
+- lista1
+- lista2
+- lista3
+- lista4
+
+### Modo de Preparo ###
+
+
+
 
 
 
